@@ -1,4 +1,4 @@
-### Bem-vindo :wave:
+### Hello There :wave:
 
 <h4> Passionate about technology, reading and logic games :fire: </h4>
 
