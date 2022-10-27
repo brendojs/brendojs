@@ -1,6 +1,6 @@
 ### Bem-vindo :wave:
 
-<h4> Apaixonado por tecnologia, leitura e jogos lógicos :fire: </h4>
+<h4> Passionate about technology, reading and logic games :fire: </h4>
 
 ### :zap: Technologies
 
