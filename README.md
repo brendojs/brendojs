@@ -6,13 +6,12 @@
 
 ### - Conhecimento
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=23323330)
-![HTML](https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=HTML5&logoColor=%20ci)
-![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=007CFF)
+![JAVA](https://img.shields.io/badge/JAVA-%2320232a.svg?style=for-the-badge&logo=JAVA&logoColor=23323330)
 
 ### - Aprendendo
 
-![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML](https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=HTML5&logoColor=%20ci)
+![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=007CFF)
 ![GIT](https://img.shields.io/badge/GIT-%2320232a.svg?style=for-the-badge&logo=GIT&logoColor=%20ci)
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=brendojs&show_icons=true&theme=cobalt)
